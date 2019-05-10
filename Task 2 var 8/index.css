@@ -1,0 +1,38 @@
+
+  .parrent {
+    position: absolute;
+    background: url("https://www.bali-gid.com/wp-content/uploads/Vodopad-kanto-lampo/Vodopad-kanto-lampo_(1).jpg");
+    width: 1000px;
+    height: 400px;
+    margin: 10px;
+  }
+  
+  .buttons {
+    position: absolute;
+    margin: 16px;
+    left: 400px;
+    bottom: 0;
+  }
+  
+  .child {
+    display: inline-block;
+    background-color: black;
+    margin: 5px;
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+    border: 2px solid white;
+  }
+  
+  .child:hover {
+    background-color: rgb(204, 4, 7);
+    box-shadow: 0 0 6px 3px white;
+    
+    
+  }
+.child:active
+  {
+    background-color: rgb(63, 17, 18);
+
+
+  }

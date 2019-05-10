@@ -1,0 +1,16 @@
+.ring {
+    display: inline-block;
+    margin: 1em;
+    width: 8em;
+    height: 8em;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1.5em solid rgb(104, 207, 104);
+    border-right-color: rgb(160, 250, 152);
+    background: rgb(218, 247, 214);
+    text-align: center;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+
+}
